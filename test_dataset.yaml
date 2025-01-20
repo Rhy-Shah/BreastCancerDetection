@@ -1,5 +1,5 @@
-train: /home/rshah133/breast_cancer_detection/train_val_birads5_test_birads5/train/images  # Path to training images
-val: /home/rshah133/breast_cancer_detection/train_val_birads5_test_birads5/test/images      # Path to test images
+train: /home/rshah133/bcd/dataset/split_1/train/images  # Path to training images
+val: /home/rshah133/bcd/dataset/test/images      # Path to test images
 nc: 11
 names:
   0: Mass
