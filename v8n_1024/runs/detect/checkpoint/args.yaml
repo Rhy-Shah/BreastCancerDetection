@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8s.yaml
-data: /home/rshah133/bcd/dataset.yaml
+data: dataset.yaml
 epochs: 200
 time: null
 patience: 25

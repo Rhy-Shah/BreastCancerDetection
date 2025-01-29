@@ -1,0 +1,15 @@
+train: /home/rshah133/bcd/dataset/split_1/train/images  # Path to training images
+val: /home/rshah133/bcd/dataset/test/images      # Path to test images
+nc: 11
+names:
+  0: Mass
+  1: Spiculation
+  2: Suspicious Calcification
+  3: Architectural Distortion
+  4: Asymmetry
+  5: Focal Asymmetry
+  6: Skin Thickening
+  7: Global Asymmetry
+  8: Suspicious Lymph Node
+  9: Skin Retraction
+  10: Nipple Retraction
