@@ -1,4 +1,4 @@
-train: /home/rshah133/bcd/dataset/split_1/train/images  # Path to training images
+train: /home/rshah133/bcd/dataset/train/images  # Path to training images
 val: /home/rshah133/bcd/dataset/test/images      # Path to test images
 nc: 11
 names:
